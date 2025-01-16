@@ -1,10 +1,10 @@
-First I creating a new repo called python-challenge 
-Second I create folder and add files accorinding to the given instruction for PyBank and PyPoll
-Third add all the resource need to the folder accordingly. 
-Created the main.py scripts in the PyBank folder that analyzes the Financial date
-Ran the script test on  https://colab.research.google.com/
-Created the main.py scripts in the PyPoll folder that analyzes the Election Results
-Ran the script test on  https://colab.research.google.com/
+=> First I creating a new repo called python-challenge 
+=> Second I create folder and add files accorinding to the given instruction for PyBank and PyPoll
+=> Third add all the resource need to the folder accordingly. 
+=> Created the main.py scripts in the PyBank folder that analyzes the Financial date
+=> Ran the script test on  https://colab.research.google.com/
+=> Created the main.py scripts in the PyPoll folder that analyzes the Election Results
+=> Ran the script test on  https://colab.research.google.com/
 
 **The generated results for PyBank was: **
 
