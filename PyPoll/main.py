@@ -52,20 +52,3 @@ for candidate, votes, percentage in results:
 print("-------------------------")
 print(f"Winner: {winner}")
 print("-------------------------")
-Steps to Use the Script
-Save the Script:
-
-Create a file named election_analysis.py and paste the above script into it.
-Prepare the Dataset (election_data.csv):
-
-Create a CSV file named election_data.csv in the same directory as your script.
-Format it with the following structure:
-css
-Copy
-Edit
-Voter ID,County,Candidate
-12864552,Marsh,Khan
-17444633,Marsh,Correy
-19330107,Queen,Khan
-19865775,Marsh,Khan
-11927875,Marsh,Li 
